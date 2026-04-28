@@ -11,7 +11,7 @@
 
 ### Technical Support Engineer · Moscow
 
-*"If I can reproduce it - I can escalate it properly."*
+*"If I can reproduce it — I can escalate it properly."*
 
 </div>
 
@@ -19,7 +19,7 @@
 
 ## 🔍 About Me
 
-Hey, I'm **Artemy** - a Technical Support Engineer with almost **6 years of client-facing experience** across tech, fintech, and enterprise support.
+Hey, I'm **Artemy** — a Technical Support Engineer with almost **6 years of client-facing experience** across tech, fintech, and enterprise support.
 
 I work at the intersection of **clients, logs, and infrastructure** — triaging issues, analyzing traffic, building strong escalations, and making sure nothing falls through the cracks.
 
@@ -31,12 +31,21 @@ Previously handled high-load customer operations at **Tinkoff** and **Sber**, no
 
 ```
 Monitoring     →   Grafana · Alerts · Log analysis
-Web            →   DevTools · HTTP · API · Proxy · Traffic analysis
+Web            →   DevTools · HTTP · API (Middle) · Proxy · Traffic analysis
 Support        →   Helpdesk · Intercom · Ticketing · Escalation pipelines
-OS             →   Linux
+OS             →   Linux/Windows
 Languages      →   English C1 · Russian (native)
 Soft           →   High-volume triage · Conflict resolution · Knowledge base
 ```
+
+---
+
+## 🏅 Certifications
+
+| Certificate | Level | Issued by | Valid until |
+|-------------|-------|-----------|-------------|
+| API | Middle (12/12) | hh.ru | — |
+| API Theory | Basic | Минцифры 🇷🇺 | 17.04.2027 |
 
 ---
 
