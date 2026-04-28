@@ -11,8 +11,6 @@
 
 ### Technical Support Engineer · Moscow
 
-*"If I can reproduce it — I can escalate it properly."*
-
 </div>
 
 ---
