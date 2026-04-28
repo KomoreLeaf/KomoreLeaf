@@ -9,9 +9,9 @@
 ╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝
 ```
 
-### Technical Support Engineer · 🇷🇺 Moscow
+### Technical Support Engineer · Moscow
 
-*"If I can reproduce it — I can escalate it properly."*
+*"If I can reproduce it - I can escalate it properly."*
 
 </div>
 
@@ -19,7 +19,7 @@
 
 ## 🔍 About Me
 
-Hey, I'm **Artem** — a Technical Support Engineer with almost **6 years of client-facing experience** across tech, fintech, and enterprise support.
+Hey, I'm **Artemy** - a Technical Support Engineer with almost **6 years of client-facing experience** across tech, fintech, and enterprise support.
 
 I work at the intersection of **clients, logs, and infrastructure** — triaging issues, analyzing traffic, building strong escalations, and making sure nothing falls through the cracks.
 
@@ -45,7 +45,7 @@ Soft           →   High-volume triage · Conflict resolution · Knowledge base
 | Period | Company | Role |
 |--------|---------|------|
 | 2025 — now | **Bcraft** | Technical Support Engineer |
-| 2024 — 2025 | **Leon** | Customer Support (EN/RU, up to 250 req/day) |
+| 2024 — 2025 | **Leon** | Technical Support (EN/RU) |
 | 2022 | **Tinkoff** | Premium Client Manager |
 | 2021 — 2022 | **Sber** | Senior Service Manager |
 
