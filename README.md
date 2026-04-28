@@ -53,9 +53,9 @@ Soft           →   High-volume triage · Conflict resolution · Knowledge base
 
 | Period | Company | Role |
 |--------|---------|------|
-| 2025 — now | **Bcraft** | Technical Support Engineer |
+| 2025 — now  | **Bcraft** | Technical Support Engineer |
 | 2024 — 2025 | **Leon** | Technical Support (EN/RU) |
-| 2022 | **Tinkoff** | Premium Client Manager |
+| 2022 - 2024 | **Tinkoff** | Premium Client Manager |
 | 2021 — 2022 | **Sber** | Senior Service Manager |
 
 ---
